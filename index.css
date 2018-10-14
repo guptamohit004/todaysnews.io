@@ -1,0 +1,42 @@
+body{
+	color: black;
+	background-color: green;
+}
+.bkg {
+    margin-top: 30px;
+    border-radius: 0px !important;
+    height:1280px;
+    width: 720px;
+    color: #fff;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+   }
+.quoteBody{
+    text-align: center;
+    font-size: 33px !important;
+    color: black !important;
+    font-family: 'Permanent Marker';
+    text-align: center;
+}
+.quoteAuthor {
+       font-size: 14px !important;
+}
+.btn {
+    border-radius: 0px;
+}
+.btn:focus {
+    outline: none;
+}
+a{
+    text-align: center;
+    color: black;
+}
+a::hover{
+    color: yellow;
+}
+.quotedesc{
+    font-style: italic;
+    font-size: 20px !important;
+    color: black !important;
+}
